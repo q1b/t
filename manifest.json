@@ -3,8 +3,8 @@
     "short_name":"Amrit",
     "start_url":"./index.html",
     "display":"standalone",
-    "background_color":"#FF0060",
-    "theme_color":"#FFFF00",
+    "background_color":"#FFF",
+    "theme_color":"#0a1824",
     "orientation":"portrait-primary",
     "icons":[
       {
